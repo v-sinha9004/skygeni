@@ -1,8 +1,8 @@
-# Node.js Backend Boilerplate
+# Node.js Backend
 
 ## Overview
 
-This is a boilerplate for a Node.js backend application using Express. It provides a basic structure to get started with building RESTful APIs.
+Skygeni backend
 
 ## Project Structure
 
